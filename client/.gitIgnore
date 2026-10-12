@@ -27,3 +27,12 @@ coverage/
 .DS_Store
 *.suo
 *.sw?
+
+
+utils/
+services/
+hooks/
+pages/
+platforms/
+layouts/
+context/
