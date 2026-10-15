@@ -33,5 +33,4 @@ models/
 routes/
 jobs/
 scraper/
-socket/
 services/
