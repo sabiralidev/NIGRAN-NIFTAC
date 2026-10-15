@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs and runtime data
+logs/
+.facebook-auth.json
+*.log
+pids/
+*.pid
+*.pid.lock
+
+# Build output and coverage
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+
+controllers/
+config/
+models/
+routes/
+jobs/
+scraper/
+socket/
+services/
